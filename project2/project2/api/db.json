@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "name": "Labuhan Bajo",
+      "description": "Fully-configurable intermediate framework. Ullam occaecati libero laudantium nihil voluptas omnis qui modi qui.",
+      "imageUrl": "/assets/pantai1.jpg",
+      "budget": 1300000,
+      "isActive": true,
+      "id": "1"
+    },
+    {
+      "name": "Labuhan Mega",
+      "description": "Re-contextualized dynamic moratorium. Aut nulla soluta numquam qui dolor architecto et facere dolores.",
+      "imageUrl": "/assets/pantai2.jpg",
+      "budget": 1280000,
+      "isActive": true,
+      "id": "2"
+    },
+    {
+      "name": "Labuhan Bali",
+      "description": "Innovative 6th generation model. Perferendis libero qui iusto et ullam cum sint molestias vel.",
+      "imageUrl": "/assets/pantai3.jpg",
+      "budget": 1350000,
+      "isActive": true,
+      "id": "3"
+    },
+    {
+      "name": "Labuhan Lombok",
+      "description": "Managed logistical migration. Qui quod praesentium accusamus eos hic non error modi et.",
+      "imageUrl": "/assets/pantai4.jpg",
+      "budget": 1250000,
+      "isActive": true,
+      "id": "4"
+    },
+    {
+      "name": "Labuhan Ratu",
+      "description": "Managed logistical migration. Qui quod praesentium accusamus eos hic non error modi et.",
+      "imageUrl": "/assets/pantai5.jpg",
+      "budget": 1200000,
+      "isActive": true,
+      "id": "5"
+    },
+    {
+      "name": "Labuhan Belitung",
+      "description": "Managed logistical migration. Qui quod praesentium accusamus eos hic non error modi et.",
+      "imageUrl": "/assets/pantai6.jpg",
+      "budget": 1220000,
+      "isActive": true,
+      "id": "6"
+    }
+  ]
+}
